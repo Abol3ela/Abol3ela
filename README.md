@@ -4,15 +4,15 @@
 
 </div>
 
-# Hey, I'm Abu-El-Ela 💻
+# Hey, I'm Abu-El-Ela 🧑‍💻
 
-I write code, lift heavy things, and try to fix bugs before the deadline.
+A passionate Artificial Intelligence student focusing on Backend Development, problem-solving, and continuous self-improvement.
 
 Currently exploring:
 
 - ☕ Backend Development (Java & Spring Boot)
 - 🤖 Artificial Intelligence & Machine Learning
-- 🏆 Problem Solving & OOP
+- 🏆 Problem Solving
 - ⚽ anything interesting
 
 ---
@@ -27,6 +27,4 @@ Currently exploring:
 
 ```text
 - I am an AI student at MTI University.
-- I lift weights and play RDR2 in my free time 🏋️‍♂️🎮    (\__/)
-- I sometimes make ASCII art like this:               ( •_•)
 - I survive on coffee and fixing exceptions ☕        / >💻
