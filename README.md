@@ -1,4 +1,4 @@
-<div align="center">
+<div align="lift">
 
   <img src="https://github.com/user-attachments/assets/77898c0d-7079-48af-a914-a44630c846ae" alt="Profile Picture" width="150" />
 
