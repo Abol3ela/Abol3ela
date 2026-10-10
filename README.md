@@ -1,5 +1,4 @@
-<img src="<img width="399" height="276" alt="تبا" src="https://github.com/user-attachments/assets/77898c0d-7079-48af-a914-a44630c846ae" />
-" alt="My Profile Picture" width="150" />
+<img src="https://github.com/user-attachments/assets/77898c0d-7079-48af-a914-a44630c846ae" alt="تبا" width="200" />
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" alt="Coding GIF" width="200" />
 
