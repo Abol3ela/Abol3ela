@@ -6,9 +6,7 @@
   <a href="https://www.linkedin.com/in/abu-el-ela-magdy-2ab296351/?isSelfProfile=true">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="_elpop">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+  <img src="https://img.shields.io/badge/Discord-_elpop-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   <a href="mailto:abuelella20@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
