@@ -1,3 +1,4 @@
+<img width="500" height="276" alt="تبا" src="https://github.com/user-attachments/assets/efd6df7b-7ac9-4e63-b9dc-5eec2ba22f17" />
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ce.gif" alt="Coding GIF" width="200" />
 
