@@ -22,11 +22,12 @@
 
 ### 👨‍💻 About Me
 
-I am an **Artificial Intelligence & Computer Science** student at MTI University, specializing in **Backend Development** and **Software Engineering**. I am deeply passionate about building scalable, efficient server-side applications and writing clean, maintainable code.
+I am an **Artificial Intelligence** student at MTI University with a strong interest in **Backend Development** and **Software Engineering**. I am currently focused on building a solid foundation in software development and backend architectures.
 
-- 💻 **Backend Architecture:** Experienced in building RESTful APIs using **Java** and **Spring Boot**.
-- 🗄️ **Databases:** Proficient in relational database design and management (**SQL Server**), along with **JDBC** integration..
-- 🚀 **Currently Learning:** Expanding my expertise in advanced backend patterns, scalable system design, and AI systems integration.
+- 💻 **Backend Development:** Actively learning backend concepts, focusing on **Java**, **Spring Boot**, and **REST APIs**.
+- 🗄️ **Databases:** Studying relational database concepts and management using **SQL Server**.
+- ⚙️ **Core Competencies:** Expanding my knowledge in Object-Oriented Programming (OOP), Data Structures, Algorithms, and problem-solving techniques.
+- 🚀 **Currently Learning:** Working towards mastering foundational principles to build my first complete backend applications.
 
 ### 🛠 Language and Tools
 <p align="left">
