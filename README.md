@@ -25,8 +25,9 @@ Currently exploring:
 
 
 
-<WritingBlock id="58321" variant="standard">### About Me
+<WritingBlock id="58321" variant="standard">---
 
-```text
+### About Me
+
 - I am an AI student at MTI University.
 - I survive on coffee and fixing exceptions ☕
