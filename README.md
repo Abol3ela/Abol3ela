@@ -1,4 +1,4 @@
-<div align="lift">
+<div align="left">
 
   <img src="https://github.com/user-attachments/assets/77898c0d-7079-48af-a914-a44630c846ae" alt="Profile Picture" width="150" />
 
@@ -23,8 +23,10 @@ Currently exploring:
 
 ---
 
-### About Me
+
+
+<WritingBlock id="58321" variant="standard">### About Me
 
 ```text
 - I am an AI student at MTI University.
-- I survive on coffee and fixing exceptions ☕        / >💻
+- I survive on coffee and fixing exceptions ☕
