@@ -25,7 +25,7 @@ Currently exploring:
 
 
 
-<WritingBlock id="58321" variant="standard">---
+<WritingBlock id="58321" variant="standard">
 
 ### About Me
 
